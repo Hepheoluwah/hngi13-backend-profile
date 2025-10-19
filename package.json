@@ -1,5 +1,5 @@
 {
-  "name": "stage0-backend-task",
+  "name": "hngi13-backend-profile",
   "version": "1.0.0",
   "main": "server.js",
   "type": "module",
@@ -7,7 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "axios": "^1.7.2",
-    "express": "^4.19.2"
+    "express": "^4.19.0",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0"
   }
 }
